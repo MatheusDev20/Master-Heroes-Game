@@ -8,7 +8,7 @@ return (
     <a href="google.com" className="navbar-brand"><img src={brand} className="brand-img" alt="brand"/>
      <span className="brand-text ml-3">Master Heroes</span>
     </a>
-    <a href="google.com" className="nav-link">
+    <a href="https://github.com/MatheusDev20/Master-Heroes-Game" className="nav-link">
       <span className="github-link">Github</span>
     </a>
   </nav>
