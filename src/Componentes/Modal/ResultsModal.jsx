@@ -26,7 +26,7 @@ return (
     <h6 className="results">Your Score: <span style={{color:'darkblue', fontSize:'50px'}}>{score}</span></h6>
     <h6 className="results">HIT %: <span style={{color:'darkblue',fontSize:'50px'}}>{(score/200)*100}%</span></h6>
       <img className="rules-image" alt="hulk" src={resultsImage}/>
-      <a href="https://master-heroes-game.netlify.com/main">
+      <a href="https://master-heroes-game.netlify.com">
         <Button 
         style={{marginLeft:'40%'}}>
         Back to Start
